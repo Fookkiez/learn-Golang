@@ -10,8 +10,8 @@ import (
 
 func main() {
 
-	fileUrl := "https://www.youtube.com/embed/P_z9LhH-924?autoplay=0&mute=0&controls=0&origin=https%3A%2F%2Frecord-playback-2.kynaforkids.vn&playsinline=1&showinfo=0&rel=0&iv_load_policy=3&modestbranding=1&enablejsapi=1&widgetid=1"
-
+	// fileUrl := "https://www.youtube.com/embed/P_z9LhH-924?autoplay=0&mute=0&controls=0&origin=https%3A%2F%2Frecord-playback-2.kynaforkids.vn&playsinline=1&showinfo=0&rel=0&iv_load_policy=3&modestbranding=1&enablejsapi=1&widgetid=1"
+	fileUrl := "https://www.youtube.com/watch?v=E_JhlK4tWHg"
 	// Download the file, params:
 	// 1) name of file to save as
 	// 2) URL to download FROM
